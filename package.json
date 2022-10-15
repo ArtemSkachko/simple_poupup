@@ -1,7 +1,7 @@
 {
   "name": "counter",
   "version": "0.1.0",
-  "homepage": "https://artemskachko.github.io/simple_poupup/",
+  "homepage": "https://artemskachko.github.io/simple_poupup",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
